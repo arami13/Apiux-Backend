@@ -1,0 +1,7 @@
+insert into tareas (descripcion,vigente,fechaCreacion) VALUES('Tarea1',1,'2020-20-12')
+insert into tareas (descripcion,vigente,fechaCreacion) VALUES('Tarea2',1,'2020-20-12')
+insert into tareas (descripcion,vigente,fechaCreacion) VALUES('Tarea3',1,'2020-20-12')
+insert into tareas (descripcion,vigente,fechaCreacion) VALUES('Tarea4',1,'2020-20-12')
+insert into tareas (descripcion,vigente,fechaCreacion) VALUES('Tarea5',1,'2020-20-12')
+insert into tareas (descripcion,vigente,fechaCreacion) VALUES('Tarea6',1,'2020-20-12')
+insert into tareas (descripcion,vigente,fechaCreacion) VALUES('Tarea7',1,'2020-20-12')
